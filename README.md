@@ -43,7 +43,7 @@ D:.
    ```bash
    git clone https://github.com/yourusername/2025_NASA_Space_Apps_Challenge_A_world_away_hunting_for_exoplanets_with_AI.git
    cd 2025_NASA_Space_Apps_Challenge_A_world_away_hunting_for_exoplanets_with_AI
-````
+
 
 2. Install dependencies:
 
@@ -149,7 +149,6 @@ Inspired by NASA’s Kepler Mission and open-source exoplanet datasets.
 
 Open an issue or submit a pull request!
 
----
 
 > *Project submitted for the 2025 NASA Space Apps Challenge — “A World Away” track.*
 
