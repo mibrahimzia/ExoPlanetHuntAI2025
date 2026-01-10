@@ -1,4 +1,3 @@
-```markdown
 # 🌌 2025 NASA Space Apps Challenge: A World Away — Hunting for Exoplanets with AI
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
