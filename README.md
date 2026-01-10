@@ -101,9 +101,11 @@ View model performance metrics and confidence graphs (see below).
 ## 📊 Model Confidence & Performance Graphs
 
 <img width="633" height="470" alt="proba_dist" src="https://github.com/user-attachments/assets/c643e957-f174-484c-ba67-c6832cf72502" />
+
 Most confirmed exoplanets are predicted with high confidence (right side), while non-exoplanets cluster on the low-confidence side (left). This shows the model makes clear, reliable decisions.
 
 <img width="624" height="624" alt="roc_curve" src="https://github.com/user-attachments/assets/deb94db3-b029-4a69-8959-630556899621" />
+
 The high AUC score (0.93) means the model is very good at telling real exoplanets apart from false signals.
 
 Our classifier outputs not just labels but also **confidence scores**, helping users understand how certain the model is about each prediction. The Insights tab displays visualizations such as:
