@@ -154,8 +154,6 @@ Open an issue or submit a pull request!
 
 > *Project submitted for the 2025 NASA Space Apps Challenge — “A World Away” track.*
 
-````
 
 
-If you want, I can also clean up formatting spacing or add more badges (stars, forks, PRs, issues, last commit, etc.).
-````
+
