@@ -6,6 +6,8 @@
 [![Gradio](https://img.shields.io/badge/Powered%20by-Gradio-FF4B4B?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48cGF0aCBmaWxsPSIjRkY0QjRCIiBkPSJNMjE1LjUgMTA1LjVMMTIwIDUwTDI0LjUgMTA1LjVMNzAgMTMxLjVMMTIwIDE2MC41TDE3MCAxMzEuNUwyMTUuNSAxMDUuNXoiLz48L3N2Zz4=)](https://gradio.app)
 [![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps-2025-0056A3?logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/)
 
+
+
 > *“A World Away” — Using machine learning to classify exoplanet candidates from Kepler mission data.*
 
 ---
