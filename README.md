@@ -1,4 +1,4 @@
-# 🌌 2025 NASA Space Apps Challenge: A World Away — Hunting for Exoplanets with AI
+# 🌌 2025 NASA Space Apps Challenge: A World Away Hunting for Exoplanets with AI
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -7,7 +7,7 @@
 
 
 
-> *“A World Away” — Using machine learning to classify exoplanet candidates from Kepler mission data.*
+> *“A World Away” - Using machine learning to classify exoplanet candidates from Kepler mission data.*
 
 ---
 
@@ -137,7 +137,7 @@ If you don’t have pre-formatted data, you can:
 
 ## 📜 License
 
-Licensed under the **Apache License 2.0** — see the [LICENSE](./LICENSE) file.
+Licensed under the **Apache License 2.0** - see the [LICENSE](./LICENSE) file.
 
 ---
 
@@ -152,7 +152,7 @@ Inspired by NASA’s Kepler Mission and open-source exoplanet datasets.
 Open an issue or submit a pull request!
 
 
-> *Project submitted for the 2025 NASA Space Apps Challenge — “A World Away” track.*
+> *Project submitted for the 2025 NASA Space Apps Challenge - “A World Away” track.*
 
 
 
